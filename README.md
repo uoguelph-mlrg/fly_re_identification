@@ -1,6 +1,17 @@
 # fly_re_identification
 
-This code was used in the WACV publication: "Classification and Re-Identification of Fruit Fly Individuals Across Days using Convolutional Neural Networks"
+This code was used in the WACV publication: "Classification and Re-Identification of Fruit Fly Individuals Across Days using Convolutional Neural Networks" by Nihal Murali, [Jonathan Schneider](http://levinelab.com/team/jschneider), [Joel D. Levine](http://levinelab.com/team//jlevine), and [Graham W. Taylor](https://www.gwtaylor.ca).
+
+To cite our work, please use the following bibtex entry.
+
+```bibtex
+@article{murali2019classification,
+  Author = {Murali, Nihal and Schneider, Jonathan and Levine, Joel D. and Taylor, Graham W.},
+  Title = {Classification and Re-Identification of Fruit Fly Individuals Across Days using Convolutional Neural Networks},
+  Booktitle = {IEEE Winter Conference on Applications of Computer Vision (WACV)},
+  Year = {2016}
+}
+```
 
 Data can be downloaded from: https://doi.org/10.5683/SP2/JP4WDF
 
@@ -31,3 +42,5 @@ python dann_train.py --descriptor test --pic_dir </path/to/3DayData> --replicate
 ```
 python dann_test.py --pic_dir </path/to/3DayData> --replicate 3 --day Day3 --chkpoint_path </path/to/checkpoints> --chkpoint_name test
 ```
+
+You may be interested in our other related work, which makes use of the same dataset: [Can Drosophila melanogaster tell who’s who?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205043) by by [Jonathan Schneider](http://levinelab.com/team/jschneider), Nihal Murali, [Graham W. Taylor](https://www.gwtaylor.ca), and [Joel D. Levine](http://levinelab.com/team//jlevine).
