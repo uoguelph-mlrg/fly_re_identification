@@ -1,13 +1,13 @@
-# Classification and Re-Identification of Fruit Fly Individuals Across Days using Convolutional Neural Networks
+# Classification and Re-Identification of Fruit Fly Individuals Across Days with Convolutional Neural Networks
 
-This code was used in the WACV publication: "Classification and Re-Identification of Fruit Fly Individuals Across Days using Convolutional Neural Networks" by Nihal Murali, [Jonathan Schneider](http://levinelab.com/team/jschneider), [Joel D. Levine](http://levinelab.com/team//jlevine), and [Graham W. Taylor](https://www.gwtaylor.ca).
+This code was used in the WACV publication: "Classification and Re-Identification of Fruit Fly Individuals Across Days with Convolutional Neural Networks" by Nihal Murali, [Jonathan Schneider](http://levinelab.com/team/jschneider), [Joel D. Levine](http://levinelab.com/team//jlevine), and [Graham W. Taylor](https://www.gwtaylor.ca).
 
 To cite our work, please use the following bibtex entry.
 
 ```bibtex
 @article{murali2019classification,
   Author = {Murali, Nihal and Schneider, Jonathan and Levine, Joel D. and Taylor, Graham W.},
-  Title = {Classification and Re-Identification of Fruit Fly Individuals Across Days using Convolutional Neural Networks},
+  Title = {Classification and Re-Identification of Fruit Fly Individuals Across Days with Convolutional Neural Networks},
   Booktitle = {IEEE Winter Conference on Applications of Computer Vision (WACV)},
   Year = {2016}
 }
