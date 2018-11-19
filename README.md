@@ -43,4 +43,4 @@ python dann_train.py --descriptor test --pic_dir </path/to/3DayData> --replicate
 python dann_test.py --pic_dir </path/to/3DayData> --replicate 3 --day Day3 --chkpoint_path </path/to/checkpoints> --chkpoint_name test
 ```
 
-You may be interested in our other related work, which makes use of the same dataset: [Can Drosophila melanogaster tell who’s who?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205043) by by [Jonathan Schneider](http://levinelab.com/team/jschneider), Nihal Murali, [Graham W. Taylor](https://www.gwtaylor.ca), and [Joel D. Levine](http://levinelab.com/team//jlevine).
+You may be interested in our other related work, which makes use of the same dataset: [Can Drosophila melanogaster tell who’s who?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205043) by [Jonathan Schneider](http://levinelab.com/team/jschneider), Nihal Murali, [Graham W. Taylor](https://www.gwtaylor.ca), and [Joel D. Levine](http://levinelab.com/team//jlevine).
